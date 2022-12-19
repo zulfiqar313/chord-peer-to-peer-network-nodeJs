@@ -1,0 +1,17 @@
+{
+  "name": "advancenodecode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autocannon": "^7.9.0",
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "node-fetch": "^2.6.6"
+  }
+}
